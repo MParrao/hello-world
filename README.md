@@ -1,3 +1,3 @@
 # hello-world
-Learning git repository
+Learning git repooository
 editing readme file
